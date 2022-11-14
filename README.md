@@ -20,5 +20,8 @@ compiled for godot v3.3
 (4) import godot test project into godot engine and test integration
 
 
+**What i Want to Do**
+(1) Compile and call an account generation method 
+
 
 ![Screenshot](https://github.com/Sam2much96/monero-godot/blob/main/monero-godot%20logo.png)
