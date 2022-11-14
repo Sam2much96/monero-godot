@@ -12,7 +12,8 @@ compiled for godot v3.3
 
 
 
-How to build
+**How to build**
+
 (1) run chmond +x build.sh in monero-godot folder
 (2) run ./build to generate libgodot static libraries needed for binding
 (3) run cd monero_src && ./build.sh to generate libmonero.so libraries for godot
